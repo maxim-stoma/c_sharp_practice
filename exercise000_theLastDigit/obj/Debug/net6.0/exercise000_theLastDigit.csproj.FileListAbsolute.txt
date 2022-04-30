@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/bin/Debug/net6.0/exercise000_theLastDigit
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/bin/Debug/net6.0/exercise000_theLastDigit.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/bin/Debug/net6.0/exercise000_theLastDigit.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/bin/Debug/net6.0/exercise000_theLastDigit.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/bin/Debug/net6.0/exercise000_theLastDigit.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/refint/exercise000_theLastDigit.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/exercise000_theLastDigit.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise000_theLastDigit/obj/Debug/net6.0/ref/exercise000_theLastDigit.dll
