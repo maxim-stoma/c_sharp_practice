@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/bin/Debug/net6.0/exercise001_theLastDigitOfRange
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/bin/Debug/net6.0/exercise001_theLastDigitOfRange.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/bin/Debug/net6.0/exercise001_theLastDigitOfRange.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/bin/Debug/net6.0/exercise001_theLastDigitOfRange.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/bin/Debug/net6.0/exercise001_theLastDigitOfRange.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/refint/exercise001_theLastDigitOfRange.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/exercise001_theLastDigitOfRange.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001_theLastDigitOfRange/obj/Debug/net6.0/ref/exercise001_theLastDigitOfRange.dll
