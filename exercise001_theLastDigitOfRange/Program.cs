@@ -1,15 +1,15 @@
-﻿Console.WriteLine("Range of numbers from 10 to 99.");
+﻿Console.WriteLine("Диапазон чисел от 10 до 99");
 int num = new Random().Next(10, 99);
 int digit1 = num / 10;
 int digit2 = num % 10;
 
-Console.WriteLine("Chosen number is " + num + ".");
-Console.WriteLine("The first digit is " + digit1 + ";");
-Console.WriteLine("The second digit is " + digit2 + ";");
+Console.WriteLine("Выбранное число: " + num + ".");
+Console.WriteLine("Первая цифра выбранного числа: " + digit1 + ";");
+Console.WriteLine("Вторая цифра выбранного числа: " + digit2 + ";");
 
 if (digit1 == digit2)
-    Console.WriteLine("Digits are equal.");
+    Console.WriteLine("Цифры одинаковые.");
 else if (digit1 > digit2)
-    Console.WriteLine(digit1 + " is greater.");
+    Console.WriteLine(digit1 + " больше.");
 else
-    Console.WriteLine(digit2 + " is greater.");
+    Console.WriteLine(digit2 + " больше.");
