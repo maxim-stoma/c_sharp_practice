@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/bin/Debug/net6.0/exercise003_multiple_7_23
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/bin/Debug/net6.0/exercise003_multiple_7_23.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/bin/Debug/net6.0/exercise003_multiple_7_23.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/bin/Debug/net6.0/exercise003_multiple_7_23.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/bin/Debug/net6.0/exercise003_multiple_7_23.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/refint/exercise003_multiple_7_23.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/exercise003_multiple_7_23.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise003_multiple_7_23/obj/Debug/net6.0/ref/exercise003_multiple_7_23.dll
