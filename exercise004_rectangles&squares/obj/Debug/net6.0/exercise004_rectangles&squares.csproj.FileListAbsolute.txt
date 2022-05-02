@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/bin/Debug/net6.0/exercise004_rectangles&squares
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/bin/Debug/net6.0/exercise004_rectangles&squares.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/bin/Debug/net6.0/exercise004_rectangles&squares.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/bin/Debug/net6.0/exercise004_rectangles&squares.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/bin/Debug/net6.0/exercise004_rectangles&squares.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/refint/exercise004_rectangles&squares.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/exercise004_rectangles&squares.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise004_rectangles&squares/obj/Debug/net6.0/ref/exercise004_rectangles&squares.dll

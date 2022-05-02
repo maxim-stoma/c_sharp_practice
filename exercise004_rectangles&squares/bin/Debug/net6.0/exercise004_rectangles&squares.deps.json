@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exercise004_rectangles&squares/1.0.0": {
+        "runtime": {
+          "exercise004_rectangles&squares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise004_rectangles&squares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
