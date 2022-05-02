@@ -16,3 +16,7 @@ Create an application that takes two numbers as input and outputs whether the se
 4. Exercise 003. Multiple of 7 and 23.
 
 Create an application that takes a number as input and checks if it is a multiple of both 7 and 23.
+
+5. Exercise 004. Rectangles and squares.
+
+Create an application that counts how many squares of side N can be cut from an input rectangle.
