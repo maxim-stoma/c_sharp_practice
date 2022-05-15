@@ -20,3 +20,7 @@ Create an application that takes a number as input and checks if it is a multipl
 5. Exercise 004. Rectangles and squares.
 
 Create an application that counts how many squares of side N can be cut from an input rectangle.
+
+6. Exercise 005. Inverted three-digit number.
+
+Create an application that take a three-digit number and output it reverse form.
