@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/bin/Debug/net6.0/exercise001.1_newWay
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/bin/Debug/net6.0/exercise001.1_newWay.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/bin/Debug/net6.0/exercise001.1_newWay.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/bin/Debug/net6.0/exercise001.1_newWay.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/bin/Debug/net6.0/exercise001.1_newWay.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/refint/exercise001.1_newWay.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/exercise001.1_newWay.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise001.1_newWay/obj/Debug/net6.0/ref/exercise001.1_newWay.dll
