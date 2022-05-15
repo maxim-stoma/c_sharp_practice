@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/bin/Debug/net6.0/exercise005_numberReverse
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/bin/Debug/net6.0/exercise005_numberReverse.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/bin/Debug/net6.0/exercise005_numberReverse.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/bin/Debug/net6.0/exercise005_numberReverse.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/bin/Debug/net6.0/exercise005_numberReverse.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/refint/exercise005_numberReverse.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/exercise005_numberReverse.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise005_numberReverse/obj/Debug/net6.0/ref/exercise005_numberReverse.dll
