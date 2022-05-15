@@ -24,3 +24,18 @@ Create an application that counts how many squares of side N can be cut from an 
 6. Exercise 005. Inverted three-digit number.
 
 Create an application that take a three-digit number and output it reverse form.
+
+
+7. Exercise 006. Logic 1.
+
+Create an application that solve logic tasks if A = true, B = false, C = false:
+* A or B;
+* A and B;
+* B or C;
+
+8. Exercise 007. Logic 2.
+
+Create an application that solve logic tasks if A = true, B = false, C = false:
+* not A and B;
+* A or not B;
+* A and B or C;
