@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/bin/Debug/net6.0/exercise007_logic2
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/bin/Debug/net6.0/exercise007_logic2.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/bin/Debug/net6.0/exercise007_logic2.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/bin/Debug/net6.0/exercise007_logic2.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/bin/Debug/net6.0/exercise007_logic2.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/refint/exercise007_logic2.dll
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.pdb
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/exercise007_logic2.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/0. practice/exercise007_logic2/obj/Debug/net6.0/ref/exercise007_logic2.dll
